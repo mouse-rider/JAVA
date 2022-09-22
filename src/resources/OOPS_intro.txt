@@ -1,0 +1,77 @@
+
+____________________________________________________________________________________________________________
+OOP (Object-oriented programming)
+------------------------------------------------------------------------------------------------------------
+Object-oriented programming (OOP) is a style of programming characterized by the identification of classes
+of objects closely linked with the methods (functions) with which they are associated.
+Object-oriented programming aims to implement real-world entities like inheritance, 
+hiding, polymorphism, etc in programming. The main aim of OOP is to bind together the data and the 
+functions that operate on them so that no other part of the code can access this data except that function.
+
+
+This concept applies to several Languages
+-------------------------------------------------------------------------------------------------------------
+Java
+Python
+C++
+ 
+Through Object Oriented You can represent almost anything[Even Real Life entities] in form of Objects.
+ 
+ Say a ***Mouse***
+ 
+ First we will draw a blueprint of a mouse using Java classes.
+ Then we will make object(instantiation) through that blueprint.
+ Instance is just a formal name of Object
+ 
+ Every Object has 2 parts
+ Say a Mouse as Object
+ 1. Property [has]
+ -----------------------------
+ (instance variables)
+ has - 4 legs
+ has - 2 eyes
+ has - tail
+ has - a color
+ 
+ 2. Functionality [does]
+ -----------------------------------
+ (methods /fn)
+ does - eat
+ does - sleep
+ 
+ 
+ Say a Employee as a Object
+ 1. has ( Emp id, Name, Company Name)  ---> instance variables
+ 2. does 
+check In with his ID card
+check the Mails
+check TEAMS and I check mmetings
+----> methods()
+ 
+
+
+
+
+
+
+
+
+Wrapper classes
+
+
+
+
+Arrays
+Command Line Arguments
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,2 +1,2 @@
-# JAVA
-JAVA for spring 
+# JavaBatch2
+Core Java Concepts
